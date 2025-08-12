@@ -1,6 +1,5 @@
-#########################################
 # ATENCION 
-#########################################
+
 LOS SCRIPTS PRESENTADOS A CONTINUACION SON PARA DISTRIBUCIONES BASADAS EN DEBIAN
 
 1. Estos scripts necesitan instalar previamente git con 
